@@ -1,3 +1,3 @@
-This is my fisrt Repositary
+This is my first Repositary.
 <br>
 Author:Umesh
